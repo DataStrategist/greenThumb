@@ -1,0 +1,11 @@
+Package: greenThumb
+Type: Package
+Title: Functions To Help With Personal Urban Driving
+Version: 0.1.0
+Author: person("Amit", "Kohli", email = "mexindian@gmail.com",role = c("aut", "cre")))
+Maintainer: Amit Kohli <mexindian@gmail.com>
+Description: For all those people that are looking to do some gardening, let's create some tools to 
+    get nerdy with it!
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
